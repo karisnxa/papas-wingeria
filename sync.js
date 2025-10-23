@@ -1,4 +1,4 @@
-const END = 'https://papas-test1.karisnxa.workers.dev/';
+const END = 'papas.karisnxa.workers.dev';
 
 async function pushSave(){
   const db = await idbOpen();
